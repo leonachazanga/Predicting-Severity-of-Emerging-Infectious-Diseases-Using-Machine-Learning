@@ -1,0 +1,2 @@
+# Predicting-Severity-of-Emerging-Infectious-Diseases-Using-Machine-Learning
+This project explores the use of machine learning techniques to predict the severity of emerging infectious diseases using real-world public health surveillance data. The goal is to identify patients at high risk of severe outcomes (e.g., hospitalization or death) early, enabling improved clinical decision-making and public health response.
