@@ -95,8 +95,8 @@ Conceptualized the study focus area, reviewed literature, synthesized the hypoth
 
 Author Contributions
 
-Leona Chazanga
-Blessing Taranhike
+* Leona Chazanga
+* Blessing Taranhike
 
 
 
